@@ -1,1 +1,7 @@
-print(2 / 0)
+profit= 1500
+
+adds = 60
+
+total_profit = profit + adds
+
+print(total_profit)

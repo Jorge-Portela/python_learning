@@ -5,4 +5,4 @@ total_sell = sell_amount1 + sell_amount2
 name = 'Lira'
 
 print (name)
-print (sell_amount)
+print (total_sell)

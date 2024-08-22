@@ -1,1 +1,1 @@
-print('Arnold' in 'My names is Arnold')
+sell_amount = 1500

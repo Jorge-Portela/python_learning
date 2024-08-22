@@ -1,1 +1,1 @@
-print('my names is' in 'Arnold')
+print('Arnold' in 'My names is Arnold')

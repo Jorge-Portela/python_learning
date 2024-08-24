@@ -1,4 +1,4 @@
-sell_amount1 = 1500
+sell_amount1 = 2351
 sell_amount2 = 270
 
 total_sell = sell_amount1 + sell_amount2

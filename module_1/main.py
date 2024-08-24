@@ -3,7 +3,7 @@ sell_amount2 = 759
 
 total_sell = sell_amount1 + sell_amount2
 name = 'Rody'
-print("name")
+print("Seller")
 print (name)
 print ("\nTotal Selling")
 print(total_sell)
